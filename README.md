@@ -1,5 +1,5 @@
-# ci536
-CI536- Group Project
+#CI536- Group Project
+Play Online at: https://ljw77.brighton.domains/Year2/CI536/index.html
 <h3>CI536-Group</h3>
         <ul>
           <li>Leo Waters</li>
