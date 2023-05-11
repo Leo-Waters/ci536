@@ -1,0 +1,4 @@
+repository "GroupProject@CI536_GroupProject@cloud"
+  path "/"
+    br "/main"
+    co "/main"
